@@ -311,5 +311,12 @@
       "createdAt": 1665912661485,
       "id": 3
     }
+  ],
+  "account": [
+    {
+      "username": "kiet123@gmail.com",
+      "password": "123456",
+      "name": "Kei"
+    }
   ]
 }
