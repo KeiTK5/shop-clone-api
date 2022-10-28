@@ -293,6 +293,16 @@
             "price": 15.99,
             "amount": 4,
             "createdAt": 1665912661485
+        },
+        {
+            "id_user": 2,
+            "id": 3,
+            "key": 4,
+            "title": "Mens Casual Slim Fit",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "price": 15.99,
+            "amount": 2,
+            "createdAt": 1665912661485
         }
     ],
     "account": [
